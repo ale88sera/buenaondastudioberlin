@@ -1,0 +1,8 @@
+/*CUSTOM COLORS*/
+:root {
+  --sircrash-color: #789681;
+}
+
+.bg-sircrash-color {
+  background-color: var(--sircrash-color);
+}
